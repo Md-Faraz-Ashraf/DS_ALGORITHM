@@ -20,3 +20,4 @@ def binarySearch(a, key):
         return binarySearch(a[:mid], key)
 
 
+
