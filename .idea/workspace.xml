@@ -33,7 +33,28 @@
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.stack">
+  <component name="RunManager" selected="Python.SLL">
+    <configuration name="SLL" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DS_ALGO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADT/LinkedList" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADT/LinkedList/SLL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="mergeSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DS_ALGO" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,27 +118,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="selectionSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DS_ALGO" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting/selectionSort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="stack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DS_ALGO" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SLL" />
         <item itemvalue="Python.stack" />
         <item itemvalue="Python.queue" />
         <item itemvalue="Python.mergeSort" />
         <item itemvalue="Python.quickSort" />
-        <item itemvalue="Python.selectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -163,45 +163,45 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="474" height="428" key="GridCell.Tab.0.bottom" timestamp="1583687903372">
+    <state width="474" height="428" key="GridCell.Tab.0.bottom" timestamp="1583771655442">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="202" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1583566152892">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="202" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1583566152892" />
-    <state width="474" height="428" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583687903372" />
-    <state width="474" height="428" key="GridCell.Tab.0.center" timestamp="1583687903372">
+    <state width="474" height="428" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583771655442" />
+    <state width="474" height="428" key="GridCell.Tab.0.center" timestamp="1583771655442">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="202" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1583566152892">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="202" key="GridCell.Tab.0.center.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1583566152892" />
-    <state width="474" height="428" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583687903372" />
-    <state width="474" height="428" key="GridCell.Tab.0.left" timestamp="1583687903371">
+    <state width="474" height="428" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583771655442" />
+    <state width="474" height="428" key="GridCell.Tab.0.left" timestamp="1583771655442">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="202" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1583566152892">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="202" key="GridCell.Tab.0.left.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1583566152892" />
-    <state width="474" height="428" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583687903371" />
-    <state width="474" height="428" key="GridCell.Tab.0.right" timestamp="1583687903372">
+    <state width="474" height="428" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583771655442" />
+    <state width="474" height="428" key="GridCell.Tab.0.right" timestamp="1583771655442">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="202" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1583566152892">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="202" key="GridCell.Tab.0.right.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1583566152892" />
-    <state width="474" height="428" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583687903372" />
+    <state width="474" height="428" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583771655442" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1583566382470">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583566382470" />
-    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1583651937917">
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1583769243440">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583651937917" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583769243440" />
   </component>
 </project>
